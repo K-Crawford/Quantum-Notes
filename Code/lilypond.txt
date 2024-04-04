@@ -1,0 +1,20 @@
+\version "2.22.1"
+\header {
+    title = "Quantum Excerpt (Numeral)"
+}
+
+\score {
+    \new Staff {
+        \clef treble
+        \numericTimeSignature
+        \time 4/4
+        \set Staff.instrumentName = "Violin"        
+        \tempo 4 = 72
+            %keys
+                %notes
+    }   
+        
+    \layout {}
+    \midi {}
+
+}
