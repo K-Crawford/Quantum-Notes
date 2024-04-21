@@ -1,4 +1,4 @@
-# Quantum-Notes
+# Quantum Notes: The Orchestration of Superpositions
 
 The project utilizes IBM Quantum Lab to generate components of traditionally notated music through superpositions. Executing the QASM generates the key, note type, and notes. The output is the syntax of the Lilypond library, which allows for musical notation. The music is generated in IBM Quantum Lab and notated using Lilypond in an external IDE.
 
